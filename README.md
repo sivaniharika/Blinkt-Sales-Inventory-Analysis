@@ -37,14 +37,14 @@ Objective: Evaluate how the age or type of outlet establishment influences total
 Insight: Track how outlet maturity impacts revenue performance over time
 
 **Tools & Technologies**
-Power BI Desktop — Dashboard development & visualization
-Power Query — ETL (Extract, Transform, Load) & data cleaning
-DAX — KPI measures & calculated columns
-Excel — Source data
+* Power BI Desktop — Dashboard development & visualization
+* Power Query — ETL (Extract, Transform, Load) & data cleaning
+* DAX — KPI measures & calculated columns
+* Excel — Source data
 
 **Key Insights**
-Identified which fat content category contributes most to overall revenue
-Discovered top-performing item types driving the highest sales
-Revealed outlet-level performance variations by fat content segmentation
-Tracked how outlet establishment age correlates with total sales trends
+* Identified which fat content category contributes most to overall revenue
+* Discovered top-performing item types driving the highest sales
+* Revealed outlet-level performance variations by fat content segmentation
+* Tracked how outlet establishment age correlates with total sales trends
 
